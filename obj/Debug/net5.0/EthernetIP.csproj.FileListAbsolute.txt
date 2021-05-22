@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\EthernetIP\bin\Debug\net5.0\EthernetIP.exe
+C:\Users\Admin\Desktop\EthernetIP\bin\Debug\net5.0\EthernetIP.deps.json
+C:\Users\Admin\Desktop\EthernetIP\bin\Debug\net5.0\EthernetIP.runtimeconfig.json
+C:\Users\Admin\Desktop\EthernetIP\bin\Debug\net5.0\EthernetIP.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\EthernetIP\bin\Debug\net5.0\EthernetIP.dll
+C:\Users\Admin\Desktop\EthernetIP\bin\Debug\net5.0\ref\EthernetIP.dll
+C:\Users\Admin\Desktop\EthernetIP\bin\Debug\net5.0\EthernetIP.pdb
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\EthernetIP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\EthernetIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\EthernetIP.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\EthernetIP.AssemblyInfo.cs
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\EthernetIP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\EthernetIP.dll
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\ref\EthernetIP.dll
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\EthernetIP.pdb
+C:\Users\Admin\Desktop\EthernetIP\obj\Debug\net5.0\EthernetIP.genruntimeconfig.cache
