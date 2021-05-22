@@ -1,8 +1,8 @@
 ﻿# Ethernet/IP
 A simple library .NET Core 5.0 for read and write tags Rockwell Control/CompactLogix PLCs.  
 ## Demonstration
-![](demo.gif)
-![demo](https://user-images.githubusercontent.com/27755739/119238824-4fbf3280-bb45-11eb-9eb3-c0652ee23538.gif)
+
+https://user-images.githubusercontent.com/27755739/119239076-e2ac9c80-bb46-11eb-8ee7-fba88eed4cb9.mp4
 
 ## Getting Started
 - ### Create PLC object
